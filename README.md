@@ -1,5 +1,7 @@
 # Netflix UI Clone
 
+![Project_010_Netflix_UI_Clone](https://github.com/user-attachments/assets/1cd009f6-d7da-455d-a1ba-57b63afda75d)
+
 A project to replicate the user interface of Netflix using HTML and CSS. This clone focuses on mirroring the aesthetic and layout of the Netflix homepage.
 
 ## Features
